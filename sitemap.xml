@@ -2,46 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/about.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/tools.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/15-minute-creamy-tuscan-salmon.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/15-minute-garlic-shrimp-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/5-minute-chocolate-mug-cake.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/air-fryer-crispy-chicken-thighs.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/air-fryer-crispy-tofu-bites.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/air-fryer-salmon.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/baked-feta-pasta-with-cherry-tomatoes.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/baked-oats.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/bang-bang-cauliflower.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/birria-tacos.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/butter-chicken.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/chocolate-lava-cake.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/classic-garlic-butter-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/cloud-bread.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/creamy-avocado-banana-smoothie-bowl.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/creamy-cajun-chicken-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/creamy-garlic-tuscan-shrimp.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/creamy-mushroom-risotto.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/creamy-tomato-soup.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/creamy-tuscan-tortellini-soup.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/crispy-air-fryer-coconut-shrimp.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/crispy-air-fryer-garlic-parmesan-wings.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/crispy-chicken-katsu-curry.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/crispy-honey-garlic-shrimp.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/crispy-smashed-potatoes.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/easy-banana-bread.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/easy-homemade-ramen.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/easy-one-pan-lemon-herb-chicken.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/egg-fried-rice.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/fluffy-cinnamon-sugar-churros.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/fluffy-japanese-souffle-pancakes.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/garlic-butter-steak-bites.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/garlic-parmesan-zucchini-chips.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/greek-chicken-bowl.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/homemade-cinnamon-rolls.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/honey-garlic-glazed-salmon.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/korean-beef-bulgogi-bowl.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/korean-corn-dogs-with-cheese-pull.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/marry-me-chicken.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/mediterranean-chickpea-salad.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/no-bake-cheesecake-cups.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/one-pot-chicken-alfredo.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/one-pot-creamy-tuscan-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/one-pot-taco-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/overnight-oats-meal-prep.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/perfect-homemade-pizza-dough.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/protein-packed-chicken-burrito-bowl.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/sheet-pan-honey-garlic-chicken-and-veggies.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/sheet-pan-lemon-herb-salmon-and-asparagus.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/smash-burgers.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/spicy-honey-chicken-sandwich.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/spicy-korean-fire-noodles.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/ultimate-loaded-nachos.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/viral-tiktok-baked-feta-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/air-fryer-crispy-chicken-thighs.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/air-fryer-crispy-tofu-bites.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/one-pot-creamy-tuscan-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/15-minute-garlic-shrimp-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/sheet-pan-honey-garlic-chicken-and-veggies.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/protein-packed-chicken-burrito-bowl.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/viral-tiktok-salmon-rice-bowl.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/creamy-avocado-banana-smoothie-bowl.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/sheet-pan-lemon-herb-salmon-and-asparagus.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/viral-cottage-cheese-flatbread.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/one-pot-taco-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://bonskari.github.io/quick-bites-kitchen/crispy-air-fryer-coconut-shrimp.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/viral-protein-ice-cream.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/viral-tiktok-baked-feta-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/viral-tiktok-salmon-rice-bowl.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
