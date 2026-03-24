@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/about.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/15-minute-creamy-tuscan-salmon.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/5-minute-chocolate-mug-cake.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/baked-oats.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -14,6 +15,9 @@
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/fluffy-japanese-souffle-pancakes.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/korean-corn-dogs-with-cheese-pull.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/marry-me-chicken.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/perfect-homemade-pizza-dough.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/smash-burgers.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonskari.github.io/quick-bites-kitchen/spicy-korean-fire-noodles.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/ultimate-loaded-nachos.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://bonskari.github.io/quick-bites-kitchen/viral-tiktok-baked-feta-pasta.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
